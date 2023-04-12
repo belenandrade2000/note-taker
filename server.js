@@ -32,9 +32,7 @@ app.post('/api/notes', (req, res) => {
 
   const {title, text} = req.body;
 
-  // If all the required properties are present
   if (title && text) {
-    // Variable for the object we will save
     const newNote = {
       title,
       text,
