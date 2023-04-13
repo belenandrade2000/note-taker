@@ -2,12 +2,8 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Business owners, web developers, students, and even parents can be very busy people. They have a million things to do, another million reminders, and countless thoughts. It is hard to keep track of all these things and not forget something. After all, we are human and making errors is almost in our DNA. This application grants busy people a method to quickly write down their note and save it. Now, anytime a user forgets what they have to do, they can go to this application and see what notes they took about what they have to do or remember. The application is easy to use in that once the first note is made, another note is easy to make because all the user has to do is click on the plus icon, navigate to the textbox and click on the title part to add title and click on description box to add their note. Then all they have to do is click on the save icon and all the notes will appear on the left. This application solves the problem of people forgetting what they have to do and helps users be more organized. Through this project, I learned how to make post requests and use express. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Table of Contents 
 
@@ -18,15 +14,21 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To use this application, all the user needs is a url. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+When the user clicks on the note taker link, they will be prompted to a page that says "Note Taker" and a blue button that says "get started". This will only appear to the user if they have no notes made. Once the user clicks on the "get started" button, they will be prompted to a page that has a textbox that covers 3/4ths of the page on the right hand side. The user will insert a note title by clicking on that section. The user will then put in their note text on the textbook that says that. Once the note is done, they will click on the save button that is on the top right of the page. The new note will then appear on the left hand side of the page with the title showing. A user can click on these notes to look at their content whenever they want. The user can make more notes by using the "plus" icon on the top right of the page. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+At this moment, the user cannot delete notes. That is more future development. 
 
-![alt text](assets/images/screenshot.png)
+The first image shows the slate for where to put in a new note by clicking the plus icon.
+The second image shows an example of a note being written.
+The third image shows that note being saved on the left-hand side. 
+
+![alt](images/1.png)
+![alt](images/2.png)
+![alt](images/3.png)
 
 ## Credits
 
